@@ -1,0 +1,24 @@
+F:\C语言菜鸟试飞\数据库实验\TMS_Logic\bin\Debug\TMS_Logic.dll
+F:\C语言菜鸟试飞\数据库实验\TMS_Logic\bin\Debug\TMS_Logic.pdb
+F:\C语言菜鸟试飞\数据库实验\TMS_Logic\bin\Debug\TMS_Data_Access.dll
+F:\C语言菜鸟试飞\数据库实验\TMS_Logic\bin\Debug\TMS_Model.dll
+F:\C语言菜鸟试飞\数据库实验\TMS_Logic\bin\Debug\TMS_Data_Access.pdb
+F:\C语言菜鸟试飞\数据库实验\TMS_Logic\bin\Debug\TMS_Model.pdb
+F:\C语言菜鸟试飞\数据库实验\TMS_Logic\obj\Debug\TMS_Logic.csprojAssemblyReference.cache
+F:\C语言菜鸟试飞\数据库实验\TMS_Logic\obj\Debug\TMS_Logic.csproj.CoreCompileInputs.cache
+F:\C语言菜鸟试飞\数据库实验\TMS_Logic\obj\Debug\TMS_Logic.csproj.CopyComplete
+F:\C语言菜鸟试飞\数据库实验\TMS_Logic\obj\Debug\TMS_Logic.dll
+F:\C语言菜鸟试飞\数据库实验\TMS_Logic\obj\Debug\TMS_Logic.pdb
+F:\C语言菜鸟试飞\数据库实验\TMS_Logic\obj\Debug\TMS_Logic.csproj.ResolveComReference.cache
+D:\电信1805(聂大波 郑超 刘沅鑫 邹杰)数据库综合实验\TMS源码\TMS源码\TMS_Logic\bin\Debug\TMS_Logic.dll
+D:\电信1805(聂大波 郑超 刘沅鑫 邹杰)数据库综合实验\TMS源码\TMS源码\TMS_Logic\bin\Debug\TMS_Logic.pdb
+D:\电信1805(聂大波 郑超 刘沅鑫 邹杰)数据库综合实验\TMS源码\TMS源码\TMS_Logic\bin\Debug\TMS_Data_Access.dll
+D:\电信1805(聂大波 郑超 刘沅鑫 邹杰)数据库综合实验\TMS源码\TMS源码\TMS_Logic\bin\Debug\TMS_Model.dll
+D:\电信1805(聂大波 郑超 刘沅鑫 邹杰)数据库综合实验\TMS源码\TMS源码\TMS_Logic\bin\Debug\TMS_Data_Access.pdb
+D:\电信1805(聂大波 郑超 刘沅鑫 邹杰)数据库综合实验\TMS源码\TMS源码\TMS_Logic\bin\Debug\TMS_Model.pdb
+D:\电信1805(聂大波 郑超 刘沅鑫 邹杰)数据库综合实验\TMS源码\TMS源码\TMS_Logic\obj\Debug\TMS_Logic.csprojAssemblyReference.cache
+D:\电信1805(聂大波 郑超 刘沅鑫 邹杰)数据库综合实验\TMS源码\TMS源码\TMS_Logic\obj\Debug\TMS_Logic.csproj.ResolveComReference.cache
+D:\电信1805(聂大波 郑超 刘沅鑫 邹杰)数据库综合实验\TMS源码\TMS源码\TMS_Logic\obj\Debug\TMS_Logic.csproj.CoreCompileInputs.cache
+D:\电信1805(聂大波 郑超 刘沅鑫 邹杰)数据库综合实验\TMS源码\TMS源码\TMS_Logic\obj\Debug\TMS_Logic.csproj.CopyComplete
+D:\电信1805(聂大波 郑超 刘沅鑫 邹杰)数据库综合实验\TMS源码\TMS源码\TMS_Logic\obj\Debug\TMS_Logic.dll
+D:\电信1805(聂大波 郑超 刘沅鑫 邹杰)数据库综合实验\TMS源码\TMS源码\TMS_Logic\obj\Debug\TMS_Logic.pdb

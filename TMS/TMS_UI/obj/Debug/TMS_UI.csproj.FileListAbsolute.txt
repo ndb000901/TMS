@@ -1,0 +1,52 @@
+F:\C语言菜鸟试飞\数据库实验\TMS_UI\bin\Debug\TMS_UI.exe.config
+F:\C语言菜鸟试飞\数据库实验\TMS_UI\bin\Debug\TMS_UI.exe
+F:\C语言菜鸟试飞\数据库实验\TMS_UI\bin\Debug\TMS_UI.pdb
+F:\C语言菜鸟试飞\数据库实验\TMS_UI\bin\Debug\TMS_Data_Access.dll
+F:\C语言菜鸟试飞\数据库实验\TMS_UI\bin\Debug\TMS_Logic.dll
+F:\C语言菜鸟试飞\数据库实验\TMS_UI\bin\Debug\TMS_Model.dll
+F:\C语言菜鸟试飞\数据库实验\TMS_UI\bin\Debug\TMS_Data_Access.pdb
+F:\C语言菜鸟试飞\数据库实验\TMS_UI\bin\Debug\TMS_Logic.pdb
+F:\C语言菜鸟试飞\数据库实验\TMS_UI\bin\Debug\TMS_Model.pdb
+F:\C语言菜鸟试飞\数据库实验\TMS_UI\obj\Debug\TMS_UI.csprojAssemblyReference.cache
+F:\C语言菜鸟试飞\数据库实验\TMS_UI\obj\Debug\TMS_UI.Form_Login.resources
+F:\C语言菜鸟试飞\数据库实验\TMS_UI\obj\Debug\TMS_UI.Form_Main_root.resources
+F:\C语言菜鸟试飞\数据库实验\TMS_UI\obj\Debug\TMS_UI.Form_StudentMS_root.resources
+F:\C语言菜鸟试飞\数据库实验\TMS_UI\obj\Debug\TMS_UI.Properties.Resources.resources
+F:\C语言菜鸟试飞\数据库实验\TMS_UI\obj\Debug\TMS_UI.csproj.GenerateResource.cache
+F:\C语言菜鸟试飞\数据库实验\TMS_UI\obj\Debug\TMS_UI.csproj.CoreCompileInputs.cache
+F:\C语言菜鸟试飞\数据库实验\TMS_UI\obj\Debug\TMS_UI.csproj.CopyComplete
+F:\C语言菜鸟试飞\数据库实验\TMS_UI\obj\Debug\TMS_UI.exe
+F:\C语言菜鸟试飞\数据库实验\TMS_UI\obj\Debug\TMS_UI.pdb
+F:\C语言菜鸟试飞\数据库实验\TMS_UI\obj\Debug\TMS_UI.Form_alterPwd.resources
+F:\C语言菜鸟试飞\数据库实验\TMS_UI\obj\Debug\TMS_UI.Form_SoftwareInfo.resources
+F:\C语言菜鸟试飞\数据库实验\TMS_UI\obj\Debug\TMS_UI.Form_TeacherMS_root.resources
+F:\C语言菜鸟试飞\数据库实验\TMS_UI\obj\Debug\TMS_UI.Form_MS_root.Form_SelectEditStatus.resources
+F:\C语言菜鸟试飞\数据库实验\TMS_UI\obj\Debug\TMS_UI.Form_MS_root.Form_SelectItems.resources
+F:\C语言菜鸟试飞\数据库实验\TMS_UI\obj\Debug\TMS_UI.Form_MS_root.Form_SelectItemT.resources
+F:\C语言菜鸟试飞\数据库实验\TMS_UI\obj\Debug\TMS_UI.Form_Log.resources
+D:\电信1805(聂大波 郑超 刘沅鑫 邹杰)数据库综合实验\TMS源码\TMS源码\TMS_UI\bin\Debug\TMS_UI.exe.config
+D:\电信1805(聂大波 郑超 刘沅鑫 邹杰)数据库综合实验\TMS源码\TMS源码\TMS_UI\bin\Debug\TMS_UI.exe
+D:\电信1805(聂大波 郑超 刘沅鑫 邹杰)数据库综合实验\TMS源码\TMS源码\TMS_UI\bin\Debug\TMS_UI.pdb
+D:\电信1805(聂大波 郑超 刘沅鑫 邹杰)数据库综合实验\TMS源码\TMS源码\TMS_UI\bin\Debug\TMS_Data_Access.dll
+D:\电信1805(聂大波 郑超 刘沅鑫 邹杰)数据库综合实验\TMS源码\TMS源码\TMS_UI\bin\Debug\TMS_Logic.dll
+D:\电信1805(聂大波 郑超 刘沅鑫 邹杰)数据库综合实验\TMS源码\TMS源码\TMS_UI\bin\Debug\TMS_Model.dll
+D:\电信1805(聂大波 郑超 刘沅鑫 邹杰)数据库综合实验\TMS源码\TMS源码\TMS_UI\bin\Debug\TMS_Data_Access.pdb
+D:\电信1805(聂大波 郑超 刘沅鑫 邹杰)数据库综合实验\TMS源码\TMS源码\TMS_UI\bin\Debug\TMS_Logic.pdb
+D:\电信1805(聂大波 郑超 刘沅鑫 邹杰)数据库综合实验\TMS源码\TMS源码\TMS_UI\bin\Debug\TMS_Model.pdb
+D:\电信1805(聂大波 郑超 刘沅鑫 邹杰)数据库综合实验\TMS源码\TMS源码\TMS_UI\obj\Debug\TMS_UI.csprojAssemblyReference.cache
+D:\电信1805(聂大波 郑超 刘沅鑫 邹杰)数据库综合实验\TMS源码\TMS源码\TMS_UI\obj\Debug\TMS_UI.Form_alterPwd.resources
+D:\电信1805(聂大波 郑超 刘沅鑫 邹杰)数据库综合实验\TMS源码\TMS源码\TMS_UI\obj\Debug\TMS_UI.Form_Log.resources
+D:\电信1805(聂大波 郑超 刘沅鑫 邹杰)数据库综合实验\TMS源码\TMS源码\TMS_UI\obj\Debug\TMS_UI.Form_Login.resources
+D:\电信1805(聂大波 郑超 刘沅鑫 邹杰)数据库综合实验\TMS源码\TMS源码\TMS_UI\obj\Debug\TMS_UI.Form_Main_root.resources
+D:\电信1805(聂大波 郑超 刘沅鑫 邹杰)数据库综合实验\TMS源码\TMS源码\TMS_UI\obj\Debug\TMS_UI.Form_MS_root.Form_SelectItemT.resources
+D:\电信1805(聂大波 郑超 刘沅鑫 邹杰)数据库综合实验\TMS源码\TMS源码\TMS_UI\obj\Debug\TMS_UI.Form_SoftwareInfo.resources
+D:\电信1805(聂大波 郑超 刘沅鑫 邹杰)数据库综合实验\TMS源码\TMS源码\TMS_UI\obj\Debug\TMS_UI.Form_StudentMS_root.resources
+D:\电信1805(聂大波 郑超 刘沅鑫 邹杰)数据库综合实验\TMS源码\TMS源码\TMS_UI\obj\Debug\TMS_UI.Form_MS_root.Form_SelectEditStatus.resources
+D:\电信1805(聂大波 郑超 刘沅鑫 邹杰)数据库综合实验\TMS源码\TMS源码\TMS_UI\obj\Debug\TMS_UI.Form_MS_root.Form_SelectItems.resources
+D:\电信1805(聂大波 郑超 刘沅鑫 邹杰)数据库综合实验\TMS源码\TMS源码\TMS_UI\obj\Debug\TMS_UI.Form_TeacherMS_root.resources
+D:\电信1805(聂大波 郑超 刘沅鑫 邹杰)数据库综合实验\TMS源码\TMS源码\TMS_UI\obj\Debug\TMS_UI.Properties.Resources.resources
+D:\电信1805(聂大波 郑超 刘沅鑫 邹杰)数据库综合实验\TMS源码\TMS源码\TMS_UI\obj\Debug\TMS_UI.csproj.GenerateResource.cache
+D:\电信1805(聂大波 郑超 刘沅鑫 邹杰)数据库综合实验\TMS源码\TMS源码\TMS_UI\obj\Debug\TMS_UI.csproj.CoreCompileInputs.cache
+D:\电信1805(聂大波 郑超 刘沅鑫 邹杰)数据库综合实验\TMS源码\TMS源码\TMS_UI\obj\Debug\TMS_UI.csproj.CopyComplete
+D:\电信1805(聂大波 郑超 刘沅鑫 邹杰)数据库综合实验\TMS源码\TMS源码\TMS_UI\obj\Debug\TMS_UI.exe
+D:\电信1805(聂大波 郑超 刘沅鑫 邹杰)数据库综合实验\TMS源码\TMS源码\TMS_UI\obj\Debug\TMS_UI.pdb
